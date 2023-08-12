@@ -7,6 +7,7 @@ Here's a screen recording of my portfolio website which includes -->>
 5. Footer section which conatins my profile links of github ,twitter ,LinkedIn etc..
 
  Hope You likes it !!
-
+<br>
+<br>
  
 [screen-capture.webm](https://github.com/prince7703/Portfolio_website.github.io/assets/97835858/18d89617-5a11-4974-9261-d059f43729ce)
