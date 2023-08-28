@@ -58,6 +58,8 @@ a {
 }
 
 .hero-section {
+  /* background-image: url(heroBack.jpg); */
+  /* background-color: orange ; */
   position: relative;
   display: flex;
   align-items: center;
